@@ -1084,6 +1084,20 @@
       ],
       "id": "90e5738e-5a23-43f3-aae9-404973e66799",
       "name": "If5"
+    },
+    {
+      "parameters": {
+        "height": 752,
+        "width": 1792
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        1952,
+        -3280
+      ],
+      "typeVersion": 1,
+      "id": "fc6255f0-698a-47a9-ad71-5b78cf5464f0",
+      "name": "Sticky Note4"
     }
   ],
   "pinData": {},
@@ -1543,7 +1557,7 @@
     "executionOrder": "v1",
     "binaryMode": "separate"
   },
-  "versionId": "c63af521-d3ff-4c8c-ab8c-c233aa2aa4ed",
+  "versionId": "b34fba22-772b-4d8e-b008-5fa3814dd673",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "98611db8140f0447c39c8e56666f9a86ee6ca617237fbb551230c599687176fd"
